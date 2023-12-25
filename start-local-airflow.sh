@@ -1,0 +1,1 @@
+export PYTHONPATH=`pwd` && export SCRAPY_SETTINGS_MODULE=openaicommentstoscrape.settings && airflow standalone
